@@ -1,4 +1,4 @@
----
+l---
 title: Apache Newcomer FAQs
 tags: ["newcomers","faq"]
 ---
@@ -6,13 +6,12 @@ tags: ["newcomers","faq"]
 These answers to frequently asked questions may help newcomers to
 The Apache Software Foundation (ASF) and our many Apache projects understand how we work.
 
-*Index of Questions*
 
   - [About The Apache Software Foundation](#NewbieFAQ-AboutTheApacheSoftwareFoundation)
       - [How do I find projects or technologies at the ASF?](#NewbieFAQ-WhatprojectscanIfindinTheApacheSoftwareFoundation?)
       - [How are projects managed at the ASF?](#NewbieFAQ-HowareprojectsmanagedinTheApacheSoftwareFoundation)
-      - [How do I ask a question about the ASF in general?](#NewbieFAQ-HowdoIaskaquestionabouttheASFingeneral?)
-      - [How do I get user support for an Apache project?](#NewbieFAQ-HowdoIgetusersupportforanASFproject?)
+      - [How do I ask a general question about the ASF?](#NewbieFAQ-HowdoIaskaquestionabouttheASFingeneral?)
+      - [How do I get user support from an Apache project?](#NewbieFAQ-HowdoIgetusersupportforanASFproject?)
   - [Getting involved with Apache projects](#NewbieFAQ-GettingInvolvedwithApacheprojects)
       - [How do I choose an Apache project to work on?](#NewbieFAQ-HowdoIchooseanApacheprojecttoworkon?)
       - [How do I get involved with an Apache project?](#NewbieFAQ-HowdoIgetinvolvedwithanApacheproject?)
@@ -40,12 +39,12 @@ three classes, or types, of project (in terms of their community, not in terms o
    * [Incubating Projects](https://incubator.apache.org): these are projects that have yet to build a sustainable community, but
 have active development and are moving towards graduating to become TLPs.
    * [Attic](https://attic.apache.org): these are end-of-life projects that are no longer receiving active
-development, but may still be useful.
+development, but their products may still be useful.
 
 <a name="NewbieFAQ-HowareprojectsmanagedinTheApacheSoftwareFoundation"></a>
 ## How are projects managed in the Apache Software Foundation?
 
-Apache project participants all believe that if we look after the community, good
+Apache project participants believe that if we look after the community, good
 code will emerge from that community. That is, when people with similar
 needs come together, they will work out a way to solve their common
 problems. For this reason we created the Community
@@ -70,7 +69,7 @@ To learn more about "The Apache Way" in general, see the [How it Works](https://
  pages. We also have [detailed overviews of how the ASF and projects are governed](https://www.apache.org/foundation/governance/).
 
 <a name="NewbieFAQ-HowdoIaskaquestionabouttheASFingeneral?"></a>
-## How do I ask a question about the ASF in general? ## {#generalquestion}
+## How do I ask a general question about the ASF? ## {#generalquestion}
 
 The Community Development Project is here for this very purpose. Check out
 the resources on this site first. If you don't find the answer to your question, send an email
@@ -78,7 +77,7 @@ to `dev@community.apache.org` (subscribe first by sending an email to
 `dev-subscribe@community.apache.org`).
 
 <a name="NewbieFAQ-HowdoIgetusersupportforanASFproject?"></a>
-## How do I get user support for an ASF project?
+## How do I get user support from an ASF project?
 
 Everyone active in ASF projects is here as a volunteer. You need to be
 careful not to waste people's time, so do your homework. Generally, if
@@ -131,7 +130,7 @@ technology or you might simply want to do something fun in your free time.
 The key is that you must *want* to get involved. It is also important that
 you have appropriate skills to be able to help the project.
 
-Our [projects page](https://projects.apache.org/) provides a list of projects that you can sort alphabetically, by category or by language. When you view a project's details
+Our [projects page](https://projects.apache.org/) provides a list of projects that you can sort alphabetically, by category or by software language. When you view a project's details
 page you can find out about its mailing lists, issue tracker and other resources.
 
 In the project's issue tracker you will find details of bugs and feature
@@ -159,12 +158,12 @@ started guide][3]. You will also find our [get involved](https://apache.org/foun
 
 Our code of conduct is posted at 
 [https://www.apache.org/foundation/policies/conduct.html](https://www.apache.org/foundation/policies/conduct.html).
-The ASF expects that everyone participating on an Apache project, whether it be improving websites; contributing to email lists, bugtrackers, or forums hosted at `apache.org`; or contributing code will abide by our code of conduct.
+The ASF expects that everyone participating on an Apache project - whether it be improving websites; contributing to email lists, bugtrackers, or forums hosted at `apache.org`; or contributing code - will abide by our code of conduct.
 
 PMCs are allowed to define their own additional codes of conduct for their individual communities, but all PMCs are expected to abide by the Foundation-wide policy.
 
 The [Incubator document](https://incubator.apache.org/guides/committer.html) also 
-has some really useful information for both the newbie and the
+has some really useful information for both newbies and
 old hands. The section on **ASF Mottos** is especially useful as a reminder of the way things are in most ASF
 projects. This section includes such gems as:
 
