@@ -19,12 +19,12 @@ title: ASF Community Development - Welcome
 
 ## ASF Community Development
 The ASF Community Development project creates and provides tools,
-processes, and advice to help open-source projects improve their own
+processes, and advice to help open-source projects improve their
 community health.
 
 We are primarily focused on ASF projects, but we believe that our
 [governance principles](/tags/governance.html)
-and best practices apply to other projects as well.
+and best practices can apply to other software projects as well.
 
 ASF [newcomers](/tags/newcomers.html) should also find relevant information here.
 
@@ -41,9 +41,9 @@ ASF [newcomers](/tags/newcomers.html) should also find relevant information here
 
 If you are new to open source, our <a href="newcomers/index.html"><b>newcomers section</b></a>
 and [related pages](/tags/newcomers.html)
-explain basic concepts, first steps to get started, and where to ask for help.
+explain basic concepts, how to get started, and where to ask for help.
 
-To get our software, see our <a href="https://projects.apache.org/projects.html?category" target="_blank">categorized listing of all Apache projects</a>, which are <a href="https://www.apache.org/free/"><b>always free</b> to download and use</a>.
+To get our software, see our <a href="https://projects.apache.org/projects.html?category" target="_blank">categorized listing of all Apache projects</a>. Their software products are <a href="https://www.apache.org/free/"><b>always free</b> to download and use</a>.
 
 The ASF is a large organization made up of many separate projects. Each project community may have its own ways of working, while still following the basic Apache Way process.
 
@@ -56,7 +56,7 @@ Producers should read our <a href="https://www.apache.org/foundation/marks/event
 
 The <a href="https://events.apache.org/event/calendar.html">event calendar</a> lists approved Apache-related events, including Community Over Code (formerly ApacheCon) and project summits.
 
-The <a href="https://tac.apache.org/">ASF Travel Assistance Committee</a> provides financial assistance for selected ASF events, to those who would otherwise be unable to attend them.
+The <a href="https://tac.apache.org/">ASF Travel Assistance Committee</a> provides financial assistance to those who want to attend selected ASF events but would otherwise be unable to attend them.
 
   </div>
   <div class="col-md-4">
@@ -118,7 +118,7 @@ on that project, dedicated to understanding and promoting diversity and inclusio
 
 #### Google Summer of Code program (GSoC)
 
-The Community Development project also manages the <a href="/gsoc/">ASF's participation in the Google Summer of Code program</a>. Each year since 2005, we've taken on between 30 and 45 students. Many have gone on to become long-term committers to projects, and even Members of the Foundation.
+The Community Development project manages the <a href="/gsoc/">ASF's participation in the Google Summer of Code program</a>. Each year since 2005, we've taken on between 30 and 45 students. Many have gone on to become long-term committers to projects, and even Members of the Foundation.
 
 Read about a few of our <a href="/gsoc/experiences.html">GSoC successes</a>. 
 
@@ -127,7 +127,7 @@ Read about a few of our <a href="/gsoc/experiences.html">GSoC successes</a>.
 
 #### Apache Local Community (ALC)
 
-The <a href="https://s.apache.org/alc">Apache Local Community</a> comprises local groups of Apache (Open Source) enthusiasts, called an 'ALC Chapter'. There will be a single ALC chapter per town/city.
+The <a href="https://s.apache.org/alc">Apache Local Community</a> comprises local groups of Apache (Open Source) enthusiasts, called an 'ALC Chapter'. There can be a single ALC chapter per town/city.
 
 The ALC Chapters spread awareness of the ASF in local communities, hosting local events to share information about the ASF, The Apache Way, and various Apache projects by bringing together project users and developers.
 
