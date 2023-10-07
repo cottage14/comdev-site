@@ -140,7 +140,7 @@ The ALC Chapters spread awareness of the ASF in local communities, hosting local
 
 All Apache projects use <a href="https://lists.apache.org/">publicly-archived mailing lists</a> that anyone may subscribe
 to. There you can ask questions related to that specific project and gain a sense of its current activities and focus.  Most projects have a
-<code>dev@project.apache.org</code> mailing list for technical discussions about the code, and a
+`dev@project.apache.org` mailing list for technical discussions about the code, and a
 <code>user@</code> or <code>users@</code> mailing list for questions about the product or features.
 
 We have a <a href="/contributors/etiquette">Code of Conduct and Etiquette guidelines</a> to help you write good emails.
