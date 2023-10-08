@@ -9,9 +9,9 @@ The **Apache Project Maturity Model** provides a suggested framework for evaluat
 
 The goals of this maturity model are to describe how Apache projects operate in a concise and high-level way, and to provide a basic framework that projects may choose to use to evaluate themselves.
 
-It is usable outside of the ASF as well, for projects that might want to adopt some or all of these principles. Projects that envision moving to the ASF at some point might start working towards this to prepare for their move.
+It is usable outside of the ASF as well, for projects that might want to adopt some or all of these principles. Projects that envision moving to the ASF at some point might want to start using this maturity model to prepare for their move.
 
-It does not describe all the details of how our projects operate, but aims to capture the invariants of Apache projects and point to additional information where needed. To be as concise as possible we use footnotes for anything that's not part of the core model.
+The model does not describe all the details of how our projects operate, but aims to capture the invariants of Apache projects and point to additional information where needed. To be as concise as possible we use footnotes for anything that's not part of the core model.
 
 Contrary to other maturity models, we do not define staged partial compliance levels. A mature Apache project complies with all the elements of this model, and other projects are welcome to adopt the elements that suit their goals.
 
@@ -41,7 +41,7 @@ Anyone can easily discover and access the project's code.
 
 <dt id="CD30">CD30</dt>
 <dd>
-Anyone using standard, widely-available tools, can build the code in a reproducible way.
+Anyone using standard, widely-available tools can build the code in a reproducible way.
 </dd>
 
 <dt id="CD40">CD40</dt>
@@ -112,7 +112,7 @@ Releases are signed and/or distributed along with digests that anyone can reliab
 </dd>
 
 <dt id="RE40">RE40</dt>
-<dd>The project can distribute convenience binaries alongside source code, but they are not Apache Releases, they are provided with no guarantee.
+<dd>The project can distribute convenience binaries alongside source code, but they are not Apache Releases and are provided with no guarantee.
 </dd>
 
 <dt id="RE50">RE50</dt>
@@ -147,7 +147,7 @@ The project provides a well-documented, secure and private channel to report sec
 </dd>
 
 <dt id="QU40">QU40</dt>
-<dd>The project puts a high priority on backwards compatibility and aims to document any incompatible changes and provide tools and documentation to help users transition to new features. 
+<dd>The project puts a high priority on backwards compatibility and aims to document any incompatible changes and provide tools and documentation to help users transition to new versions of the software. 
  </dd>
  
  <dt id="QU50">QU50</dt>
@@ -185,7 +185,7 @@ responsibilities to contributors who, over time, add value to the project.
 
 <dt id="CO50">CO50</dt>
 <dd>
-The project documents how contributors can earn more rights such as commit
+The project documents how contributors can earn more rights, such as commit
 access or decision power, and applies these principles consistently.
 </dd>
 
@@ -260,7 +260,7 @@ The project is independent from any corporate or organizational influence.
 
 **Remember:** This model is a guide; it is not a requirements document. The model shows what generally good behaviors in an Apache project look like.
 
-So far, inside the ASF, podlings preparing their graduation 
+So far, inside the ASF, podlings preparing for their graduation 
 from the [Apache Incubator](https://incubator.apache.org) have used this model, mostly for self-assessment.
 
 It might be useful for top-level ASF projects to regularly assess their maturity based on this model, but this is not a requirement at this time.
