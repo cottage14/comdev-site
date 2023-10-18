@@ -5,21 +5,21 @@ tags: ["committers","navigation","contributing"]
 ---
 
 There are a number of useful Apache tools and services available for Apache projects
- and committers.  This is a brief set of pointers or signposts to that information.
+ and committers.  This is a brief set of pointers or signposts to information about them.
 
 ## Apache Infrastructure Information
 
-The primary portals for Apache Infra questions - how Subversion/Git/Websites, etc. work at the ASF - are pages at <a href="https://www.apache.org/dev/" target="_blank">apache.org/dev</a> and <a href="https://infra.apache.org" target="_blank">infra.apache.org</a>.
+The primary portals for Apache Infra questions - how Subversion/Git/websites, etc. work at the ASF - are <a href="https://www.apache.org/dev/" target="_blank">apache.org/dev</a> and <a href="https://infra.apache.org" target="_blank">infra.apache.org</a>.
 
 If you're a committer, you can [patch this very website yourself][2]!
 
 ## Decision making
 
 When getting involved in any open source project, it's critical to
-understand how, when, and by whom, decisions are made.
+understand how, when, and by whom decisions are made.
 
-In ASF projects, decisions are made by the people that do the work. This
-is usually the committers, who make decisions by committing code.
+In ASF projects, decisions are made by the people who do the work. These
+are usually the committers, who make decisions by committing code.
 
 The PMC makes major decisions about project roadmaps, releases, and who
 to invite into the ranks of the committers.
@@ -65,7 +65,7 @@ operate in ways that are largely similar to these processes.
 
 ## Assisting with project management and marketing
 
-There are many visible contributions of value in an Apache projects
+There are many visible contributions of value in an Apache project
 (documentation, testing, coding user support, design etc.), but there are
 also plenty of "back office" tasks that are necessary to maintain a healthy
 project. This section describes some of the activities that you can help
@@ -80,7 +80,7 @@ activities, although non-committers can often act in supporting roles.
 ## Speaking about Apache projects at events
 
 We encourage all of our committers to speak about Apache projects and 
-technologies, and generally to help to grow and enhance our community.
+technologies at public events, and generally to help to grow and enhance our community.
 
 ## Other Resources
 
