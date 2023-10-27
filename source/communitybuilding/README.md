@@ -6,19 +6,19 @@ will include a variety of topics:
 
 ## What
 
-* What is an Apache community
-* Who are the persona that comprise an Apache community
+* What is an Apache community?
+* Who are the persons who comprise an Apache community?
 * How does an Apache community differ from other open source
   communities? How is it the same?
 
 ## Why
 
-* Why community matters to a project. (Discussion of "Community Over
-  Code")
+* Why community matters to a project (Discussion of "Community Over
+  Code").
 * Why various groups (individuals, companies, other projects) should be
-  involved in the project community. (Sustainability, influence, trust)
+  involved in the project community (sustainability, influence, trust).
 * In particular, how and why companies should get engaged in projects
-  that they rely on 
+  that they rely on. 
 
 ## How
 
@@ -33,8 +33,7 @@ but is not limited to:
 * Transparency
     * Bringing discussion back to the public list
     * Over-communicating, rather than assuming everyone Just Knows
-    * Appropriate use of synchronous communication (ie, Slack, Discord,
-      etc.)
+    * Appropriate use of synchronous communication (ie, Slack, Discord)
 * Articulating the project mission
     * What's in scope? What is out of scope?
     * What does it do? Who is the target audience?
@@ -45,7 +44,7 @@ but is not limited to:
 * Good First Tickets
 * Responsiveness (to tickets, questions, PRs)
 * Delegation (Actively delegating to beginners, so that they can build
-  their participation muscles and confidence.)
+  their participation muscles and confidence)
 * Mentoring and micro-mentoring
 * Diversity (along multiple axes)
 * Vendor neutrality
